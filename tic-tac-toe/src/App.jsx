@@ -46,7 +46,7 @@ const jumpToMove = (nextMove)=>{
         />
       </div>
 
-      <div>
+      <div style={{marginTop: "65px"}}>
         <ol>{moves}</ol>
       </div>
     </div>
